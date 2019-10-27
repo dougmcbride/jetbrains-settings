@@ -1,0 +1,8 @@
+<application>
+  <component name="XcodeNewProjectMetadata">
+    <lastUsedFolder path="$USER_HOME$/Desktop" />
+    <string key="bundleIdentifierPrefix" value="com.sneakyfrog" />
+    <string key="organizationName" value="The Sneaky Frog" />
+    <string key="languageChoice" value="Swift" />
+  </component>
+</application>
