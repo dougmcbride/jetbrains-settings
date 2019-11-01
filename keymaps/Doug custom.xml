@@ -1,4 +1,7 @@
 <keymap version="1" name="Doug custom" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
   <action id="AppCode.OpenInXcodeAction">
     <keyboard-shortcut first-keystroke="meta alt x" />
   </action>
