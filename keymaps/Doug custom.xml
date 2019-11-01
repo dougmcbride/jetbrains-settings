@@ -1,4 +1,7 @@
 <keymap version="1" name="Doug custom" parent="Mac OS X 10.5+">
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="meta alt x" />
+  </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta b" />
@@ -48,5 +51,8 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt comma" />
   </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
   <action id="tasks.goto" />
 </keymap>
