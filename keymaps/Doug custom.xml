@@ -1,0 +1,61 @@
+<keymap version="1" name="Doug custom" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+  </action>
+  <action id="AppCode.OpenInXcodeAction">
+    <keyboard-shortcut first-keystroke="meta alt x" />
+  </action>
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="CIDR.Debugger.ShowInMemoryView" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl meta w" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Jdbc.OpenEditor.DDL">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="meta alt space" />
+  </action>
+  <action id="ViewSource" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
+  <action id="XPathView.Actions.Evaluate" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="XPathView.Actions.ShowPath" />
+  <action id="tasks.goto" />
+</keymap>
